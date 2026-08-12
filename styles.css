@@ -1,0 +1,22 @@
+.container {
+   background-color: rgb(153, 88, 88);
+   padding: 67px;
+   border: 1px solid black;
+
+}
+.title {
+   font-size: 30px;
+   text-align: center;
+}
+.highlight {
+   color: rgb(35, 4, 37);
+   font-weight: thin;
+}
+.list {
+   list-style-type: none;
+   padding: 5px;
+}
+#wow {
+   background-color: rgb(35, 4, 37);
+
+}
