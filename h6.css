@@ -1,0 +1,31 @@
+.abs{
+    width: 100px;
+    height: 100px;
+}
+.txt{
+    font-size: 20em;
+}
+.txt-rem{
+    font-size: 20rem;
+}
+.percent{
+    font-size: 20%;
+}
+.background{
+    background-color: rgb(255, 0, 0);
+    color: rgb(55, 25, 123);
+}
+.six{
+    color: #f53;
+}
+.seven{
+    color: rgba(255, 0, 0, 0.5);
+    background-color: rgba(67, 67, 67, 0.5);
+}
+.ss{
+    width: 80%;
+     height: 50vh;
+     background-color: lightgray;
+     margin: 0 auto;
+
+}
