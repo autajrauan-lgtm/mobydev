@@ -1,6 +1,15 @@
 .rrr{
    display: block;
+   padding: 20px;
+    margin-top: 20px;
+   background-color: #eeeeee;
+    border: 2px solid #333;
 }
 .rar{
     display: inline;
+    padding: 25px;
+    margin-top: 25px;
+    background-color: #463737;
+    border: 2px solid #520000;
+    text-align: center;
 }
