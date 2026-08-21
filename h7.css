@@ -6,10 +6,11 @@
     border: 2px solid #333;
 }
 .rar{
-    display: inline;
+    display: block;
     padding: 25px;
     margin-top: 25px;
     background-color: #463737;
     border: 2px solid #520000;
     text-align: center;
 }
+
