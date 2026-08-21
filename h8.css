@@ -4,9 +4,9 @@
 .e:focus{
     background-color: rgb(65, 51, 5);
 }
-.cat:first-child{
+.cat:first-child:hover{
     background-color: rgb(1, 59, 3);
 }
-.cat:last-child{
+.cat:last-child:focus{
     background-color: rgb(95, 84, 84);
 }
