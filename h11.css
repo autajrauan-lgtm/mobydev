@@ -54,23 +54,29 @@ li {
     justify-content: flex-end ;
 }
 .container {
-    width:100%;
-    height: auto;
-    margin-bottom: 22px;
+    display: flex;
+   width: 1440px;
+height: 80px;
+top: 348px;
+left: -993px;
+padding-right: 36px;
+padding-left: 36px;
+opacity: 1;
+border-radius: 10px;
 background-color: #111928;
-padding: 36px 36px;
-
-display: flex;
-
 align-items: center;
 
-justify-content: space-between;
-
-border-bottom: 1px #111928;
 }
 .header4 {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
+    width: 654.2999877929688;
+height: 19;
+gap: 50px;
+angle: 0 deg;
+opacity: 1;
+
+
 }
 .search {
     display: flex;
@@ -79,6 +85,10 @@ border-bottom: 1px #111928;
 .login {
     color: #EEF0F3;
     background-color: #111928;
+    padding: 10px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 9999px;
 }
 .active {
     color: #7d1886
@@ -86,6 +96,112 @@ border-bottom: 1px #111928;
 .buttons {
     border:none;
 }
-.logo1 {
+.logo3 {
+    display: flex;
+    width: 300px;
+height: 30px;
+gap: 10px;
+angle: 0 deg;
+opacity: 1;
+
+    justify-content: left;
+    align-items: center;
+}
+.first {
+    padding: bottom 12px; ;
+    padding: top 12px;;
+    padding: right 40px; ;
+    padding: left 40px; ;
+}
+.h1 {
+    display: flex;
+    justify-content: right;
+    padding: 10px 10px;
+    gap: 40px;
+    align-items: baseline;
+}
+.h2 {
+    display: flex;
+    justify-content: left;
+    gap: 32px;
+    weight: 497px;
+    height: 40px;
+}
+.buttons01 {
+    display: flex;
+    justify-content: right;
+    padding: 30px 30px;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
     
 }
+.header1 {
+    display: flex;
+    gap: 50px;
+    weight: 405px;
+    height: 19px;
+    justify-content: center;
+    align-items: center;
+}
+.buttons02 {
+    display: flex;
+    gap: 10px;
+    weight: 33px;
+    height: 24px;
+    justify-content: right;
+    align-items: center;
+
+}
+.h4 {
+     display: flex;
+    justify-content: right;
+ width: 405px;
+height: 19px;
+gap: 50px;
+angle: 0 deg;
+opacity: 1;
+
+    align-items: center;
+}
+.logo4 {
+    display: flex;
+    width: 300px;
+height: 30px;
+gap: 10px;
+angle: 0 deg;
+opacity: 1;
+justify-content: left;
+align-items: center;
+}
+.search1 {
+    display: flex;
+    justify-content: center;
+width: 500px;
+height: 44px;
+gap: 10px;
+angle: 0 deg;
+opacity: 1;
+
+
+}
+.logo5 {
+    display: flex;
+gap: 10px;
+justify-content: left;
+align-items: center;
+}
+.header5 {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+width: 654.2999877929688px;
+height: 19px;
+gap: 50px;
+angle: 0 deg;
+opacity: 1;
+
+
+
+}
+.search1
