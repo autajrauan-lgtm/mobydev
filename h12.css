@@ -1,0 +1,29 @@
+.pos {
+    display: flex;
+    position: static;
+}
+.po {
+    display: flex;
+    position: relative;
+    top: 50px;
+    bottom: 50px;
+    left: 50px;
+}
+.abs {
+    display: flex;
+    position: absolute;
+    
+    bottom: 50px;
+    left: 50px;
+}
+.fix {
+    display: flex;
+    position: fixed;
+    bottom: 100px;
+    right: 200px;
+}
+.sti {
+    display: flex;
+    position: sticky;
+    top: 0px;
+}
