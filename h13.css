@@ -1,0 +1,396 @@
+.logo {
+    display: flex;
+    padding: 17px 50px;
+    justify-content: left;
+}
+.first {
+    display: flex;
+    background-color: #191919;
+    align-items: center;
+       justify-content: space-between;
+
+}
+.cat{
+    display: flex;
+    background-color: #191919;
+    padding:20px;
+ 
+    color: white;
+
+
+}
+li {
+    display: flex;
+    font-weight: 400;
+font-style: Regular;
+font-size: 17px;
+leading-trim: NONE;
+line-height: 27px;
+letter-spacing: 0%;
+margin: 20px;
+}
+.active {
+    display: flex;
+    color:#118DA8;
+}
+.img {
+    display: flex;
+    padding: 17px 50px;
+    justify-content: left;
+    width: 650;
+height: 873;
+angle: 0 deg;
+opacity: 1;
+border-radius: 12px;
+margin-top: 40px;
+margin-left: 50px;
+}
+.second {
+    display: flex;
+    background-color: #191919;
+    align-items: center;
+       justify-content: space-between;
+
+}
+.text {
+    display: flex;
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 70px;
+leading-trim: NONE;
+line-height: 88px;
+letter-spacing: 3.2px;
+
+}
+.img2 {
+    display: flex;
+ justify-content: bottom;
+
+}
+.io {
+
+display: flex;
+align-items: center;
+
+}
+.txt {
+    display: flex;
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 15px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 0%;
+color: #FFFFFF;
+}
+.fourth {
+    display: flex;
+    background-color: #191919;
+    align-items: center;
+       justify-content: space-between;
+
+}
+.txt2 {
+    display: flex;
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 79.2px;
+letter-spacing: 2.88px;
+justify-content: left;
+color: #FFFFFF;
+}
+
+.btn {
+padding: 20px 50px;
+    background-color:#118DA8;
+    color: #FFFFFF;
+   width: 178;
+height: 51;
+angle: 0 deg;
+opacity: 1;
+border-radius: 6px;
+align-items: center;
+
+border: none;
+padding: 20px 15px;
+}
+.qwe {
+    display: flex;
+    background-color: black;
+    align-items: center;
+       justify-content: center;
+    width: 1300;
+height: 1689;
+angle: 0 deg;
+opacity: 1;
+top: 239.44px;
+left: 50px;
+padding: 20px;
+
+}
+.btn2 {
+ 
+    background-color:#191919;
+    color: #FFFFFF;
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 27px;
+letter-spacing: 0%;
+
+border-radius: 6px;
+border:none;
+
+}
+.k {
+    display: flex;
+    justify-content: right;
+    padding: 20px 50px;
+
+}
+.img3 {
+    display: flex;
+    padding: 17px 50px;
+    justify-content: left;
+    width: 389;
+}
+.fifth {
+    display: flex;
+    background-color: black;
+    align-items: center;
+       justify-content: space-between;
+    width: 1300;
+height: 545;
+angle: 0 deg;
+opacity: 1;
+top: -0.44px;
+border-radius: 32px;
+
+}
+.txt3 {
+    display: flex;
+  font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 17px;
+leading-trim: NONE;
+line-height: 27px;
+letter-spacing: 0%;
+
+}
+.txt4 {
+    display: flex;
+  font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 64px;
+leading-trim: NONE;
+line-height: 70.4px;
+letter-spacing: 2.56px;
+justify-content: center;
+}
+.txt5 {
+    display:flex;
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 33px;
+letter-spacing: 0%;
+
+}
+.sixth{
+      display: flex;
+    background-color: #191919;
+    align-items: center;
+       justify-content: space-between;
+    width: 1300;
+height: 545;
+angle: 0 deg;
+opacity: 1;
+top: -0.44px;
+border-radius: 32px;
+
+}
+.img4 {
+    display: flex;
+    padding: 50px 17px;
+    justify-content: right;
+    
+}
+.txt6 {
+    display: flex;
+ font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 33px;
+letter-spacing: 0%;
+justify-content: left;
+}
+.txt7 {
+    display: flex;
+font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 65px;
+leading-trim: NONE;
+line-height: 79.2px;
+letter-spacing: 2.88px;
+justify-content: left;
+}
+.txt8 {
+    display: flex;
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 33px;
+letter-spacing: 0%;
+justify-content: left;
+}
+.sub {
+    display: flex;
+    background-color: black;
+    align-items: center;
+       justify-content: space-between;
+    width: 1300;
+}
+.txt9 {
+    display: flex;
+   font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 72px;
+leading-trim: NONE;
+line-height: 79.2px;
+letter-spacing: 2.88px;
+width: 431;
+height: 159;
+angle: 0 deg;
+opacity: 1;
+top: 85.13px;
+left: 60px;
+
+
+}
+p {
+ flex-direction: column;
+  font-family: DM Sans; }
+.third {
+    flex-direction: column;
+}
+.ka {
+    flex-direction: column;
+    
+}
+.wqw {
+    display: flex;
+    width: 1220;
+height: 432;
+angle: 0 deg;
+opacity: 1;
+top: 40.44px;
+left: 40px;
+
+}
+.r {
+    display: flex;
+    background-color: #191919;
+    padding:20px;
+      width: 522;
+height: 82;
+angle: 0 deg;
+opacity: 1;
+top: 0.13px;
+border-radius: 6px;
+border-width: 1px;
+outline: none;
+    color: rgba(255, 255, 255, 0.7);}
+.e {
+    display: flex;
+    background-color: rgba(17, 141, 168, 1);
+   width: 87;
+height: 48;
+angle: 0 deg;
+opacity: 1;
+top: 204.13px;
+border-radius: 6px;
+outline: none;
+padding: 9px 19px;
+}
+.for {
+    display: flex;
+    width: 522;
+height: 252;
+angle: 0 deg;
+opacity: 1;
+padding-top: 59.88px;
+padding-left:60px
+justify-content: right;
+flex-direction: column;
+padding-right: 60px;
+}
+.eighth {
+   width: 1400;
+   height: 901;
+    background-color: #191919;
+flex-wrap: wrap;
+   
+
+}
+.qwe2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.img5 {
+    display: flex;
+    padding: 5px;
+}
+.io2 {
+    display: flex;
+ width: 423;
+ height: 364;
+angle: 0 deg;
+opacity: 1;
+top: 0.12px;
+border-radius: 32px;
+background-color: black;
+    justify-content: space-between;
+    padding: 1px;
+    
+    flex-direction: column;
+
+}
+.txt11 {
+    display: flex;
+  font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 43.2px;
+letter-spacing: 0%;
+padding: 9px;
+}
+.qaz {
+    flex-direction: column;
+    padding: 60px
+}
+.qweqwq {
+    display: flex;
+    align-items: center;
+     justify-content: space-between;
+     flex-wrap: wrap;
+}
