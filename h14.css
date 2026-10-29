@@ -5,7 +5,32 @@
     gap: 20px;
 }
 .card {
-    background-color: lightblue;
-    border: 1px solid blue;
-    text-align: center;
+    
+    background-color: white;
+    border: none;
+   height: 100%;
+angle: 0 deg;
+opacity: 1;
+
+}
+.buy {
+    background-color: rgba(254, 216, 76, 1);
+    color: black;
+    text-decoration: none;
+    outline:none;
+    border: none;
+    width: 163;
+height: 68;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+padding-top: 20px;
+padding-right: 40px;
+padding-bottom: 20px;
+padding-left: 40px;
+border-radius: 8px;
+
+}
+.io {
+   padding-left: 44px;
 }
