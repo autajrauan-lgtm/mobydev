@@ -106,7 +106,7 @@ color: #FFFFFF;
 }
 
 .btn {
-padding: 20px 50px;
+padding: 20px 15px;
     background-color:#118DA8;
     color: #FFFFFF;
    width: 178;
@@ -115,9 +115,8 @@ angle: 0 deg;
 opacity: 1;
 border-radius: 6px;
 align-items: center;
-
 border: none;
-padding: 20px 15px;
+
 }
 .qwe {
     display: flex;
@@ -340,6 +339,8 @@ padding-left:60px
 justify-content: right;
 flex-direction: column;
 padding-right: 60px;
+border: none;
+outline: none;
 }
 .eighth {
    width: 1400;
@@ -353,6 +354,8 @@ flex-wrap: wrap;
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-RIGHT: 16px;
+        margin: top 25px;
 }
 .img5 {
     display: flex;
@@ -371,6 +374,7 @@ background-color: black;
     padding: 1px;
     
     flex-direction: column;
+    margin: 10px;
 
 }
 .txt11 {
@@ -393,4 +397,19 @@ padding: 9px;
     align-items: center;
      justify-content: space-between;
      flex-wrap: wrap;
+}
+.zzz {
+    display: flex;
+    background-color: rgba(17, 141, 168, 1);
+    margin: 124px 50px;
+    border-radius: 6px;
+    border: none;
+}
+.r {
+    border: none;
+outline: none;
+}
+.e {
+    border: none;
+outline: none;
 }
