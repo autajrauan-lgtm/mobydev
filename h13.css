@@ -103,6 +103,7 @@ line-height: 79.2px;
 letter-spacing: 2.88px;
 justify-content: left;
 color: #FFFFFF;
+padding-left: 50px;
 }
 
 .btn {
@@ -129,7 +130,8 @@ angle: 0 deg;
 opacity: 1;
 top: 239.44px;
 left: 50px;
-padding: 20px;
+padding: 70px;
+border-radius: 32px;
 
 }
 .btn2 {
@@ -162,8 +164,8 @@ border:none;
 }
 .fifth {
     display: flex;
-    background-color: black;
-    align-items: center;
+    background-color: #191919;
+    flex-direction: column;
        justify-content: space-between;
     width: 1300;
 height: 545;
@@ -264,6 +266,7 @@ justify-content: left;
     align-items: center;
        justify-content: space-between;
     width: 1300;
+    border-radius: 32px;
 }
 .txt9 {
     display: flex;
@@ -412,4 +415,10 @@ outline: none;
 .e {
     border: none;
 outline: none;
+}
+.cosmo {
+    display: flex;
+    background-color: #191919;
+    flex-direction: column;
+    padding: 70px;
 }

@@ -1,0 +1,18 @@
+@media (max-width: 992px) {
+    .pr {
+        color: rgba(89, 141, 102, 1);
+        border: 1px rgba(89, 141, 102, 1);
+    }
+    .f {
+        display: flex;
+        align-items: center;
+    }
+    .s {
+        display: flex;
+        align-items: center;
+    }
+    .io {
+        display: flex;
+        justify-content: right;
+    }
+}
